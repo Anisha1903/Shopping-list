@@ -9,9 +9,9 @@ It's shopping list app.
 
 # Technologies
 
-* AngularJS
 * HTML
 * CSS
+* AngularJS
 
 # Live Demo
 
