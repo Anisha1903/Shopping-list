@@ -1,4 +1,4 @@
-# Shopping-List-app-using-AngularJS
+# Shopping List app using AngularJS
 It's shopping list app. 
 
 # Functionalities
