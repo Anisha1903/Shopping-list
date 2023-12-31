@@ -1,0 +1,27 @@
+#sitetitle {
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.header-tab {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+    align-items: center;
+    height: 70px;
+}
+
+.header-tab h4 {
+    margin: 0;
+}
+
+.header-tab a {
+    margin-right: 10px;
+}
+
+.body-content {
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 50%;
+}
